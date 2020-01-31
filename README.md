@@ -1,16 +1,7 @@
-# agenda_contatos
+# Agenda de Contatos
 
-A new Flutter application.
+Uma aplicação em Flutter capaz de criar Cards de contatos e dar opções como: Ligar, Editar, Remover os contatos.
+Utiliza-se também plugins para conexão da aplicação com o telefone para poder efetuar as ligações e com a câmera que possibilita tirar fotos para colocar no perfil. 
 
-## Getting Started
+Essa aplicação está no curso "Crie 16 Apps" do professor Daniel no Udemy.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
